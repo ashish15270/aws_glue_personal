@@ -30,6 +30,7 @@ def main():
     try:
         logger.info('main() method has started')
         get_curr_date(spark)
+        print('pull-test')
         
         
         
